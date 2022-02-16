@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Recitation 6 notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-laboratory-in-software-engineering-fall-2005/763f72d32bc2cf0be686fe1ed4d467e9_recitation6.pdf
+file: /media/courses/6-170-laboratory-in-software-engineering-fall-2005/763f72d32bc2cf0be686fe1ed4d467e9_recitation6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: recitation6.pdf
 uid: 763f72d3-2bc2-cf0b-e686-fe1ed4d467e9
