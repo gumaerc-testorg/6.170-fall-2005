@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section contains a list of topics for the quiz, divided into several
+  categories.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
 title: Exams
 uid: fe44eec4-0e1c-26aa-2ff5-28809f8ff623
+video_metadata:
+  youtube_id: null
 ---
 
 The quiz (given in week 9) will be a closed-book quiz. Here is a list of topics that have been covered this term that may appear in the quiz. You won't be tested on obscure details of Java.

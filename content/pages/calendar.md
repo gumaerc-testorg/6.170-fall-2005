@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section contains a calendar of topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: df3c4f06-fed9-7360-0234-d41e0a03bae3
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar below provides the course's lecture (L), recitation (R), quiz (Q), and project (P) sessions by week.
