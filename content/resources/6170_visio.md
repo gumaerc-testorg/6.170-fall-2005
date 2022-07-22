@@ -4,6 +4,7 @@ description: This is a supporting file for Visio templates and stencils.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/66b6f681d95c0676ff223ebb393f79d0_6170_visio.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file for Visio templates and stencils.
-

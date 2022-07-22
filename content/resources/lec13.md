@@ -8,6 +8,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/d8ec291d764976
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the following topicsIntroduction, Defining Simple Generics, Generics and Subtyping, Wildcards, Generic Methods, Interoperating with Legacy Code, The Fine Print, Class Literals as Run-time Type Tokens, More Fun with Wildcards, Converting Legacy Code to Use Generics, Acknowledgements.
-

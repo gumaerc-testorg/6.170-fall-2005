@@ -10,6 +10,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/50b9657893c4bb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the following Space Elevator, Building a Space Elevator, "Realistic" Space Elevator, Why a Space Elevator?, Summer Project, Functionality, Our First MDD, A Little More Detail, Our Second MDD, Viewer Functionality, Class Hierarchy for Viewer, Multiple Views, Simple Example of Multiple Observers, Multiple Observers, Observer Design Pattern, java.beans Support, PropertyChangeSupport Class Methods, Pictorially, Usage, Demonstration.
-

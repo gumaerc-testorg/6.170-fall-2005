@@ -5,6 +5,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/d1fe07332c9a32
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: KeypressTest.java
 uid: d1fe0733-2c9a-32df-c0a9-64b88de4f996
 ---
 This resource is a supplementry file for Gizmoball.
-

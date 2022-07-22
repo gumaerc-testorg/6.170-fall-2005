@@ -8,6 +8,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/3f8fe7460da0ae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the following topics Introduction, Defensive Programming, Runtime Assertions, Assertions in Java, Responding to Failure, Non-local Jumps, Exceptions for Special Results, Abuse of Exceptions, Checked and Unchecked Exceptions, Exceptions and Preconditions, Design Considerations, Throwable Hierarchy, Summary.
-

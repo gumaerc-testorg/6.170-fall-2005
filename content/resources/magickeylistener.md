@@ -5,6 +5,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/08698985c74431
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MagicKeyListener.java
 uid: 08698985-c744-3193-d737-ec66063261c1
 ---
 This resource is a supplementry file for Gizmoball.
-

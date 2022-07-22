@@ -7,6 +7,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/37c0b16dfdaa07
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 The resource contains the information about the Java Swing windowing toolkit by having the to develop a graphical user interface (GUI, pronounced gooey) for the board game Boggle.
-

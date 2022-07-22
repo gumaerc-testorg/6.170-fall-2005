@@ -5,6 +5,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/15019259ae3e6f
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file for Provided Source Code.
-

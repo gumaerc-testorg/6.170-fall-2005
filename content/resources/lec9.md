@@ -7,6 +7,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/5bc4f8c4aed052
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the following topics Introduction, Abstract and Concrete Objects, A Nifty Abstraction Function, Specification Fields, Benevolent Side Effects, Summary.
-

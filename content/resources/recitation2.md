@@ -7,6 +7,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/82245f5be1d22a
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information about the following topics ADT (Abstract Data Types), Representation Independence and Representation Exposure, Java Interfaces and Java Abstract Classes.
-

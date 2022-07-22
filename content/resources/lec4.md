@@ -8,6 +8,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/d9f646cee3f897
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the following topics Introduction, Contracts, Firewalls, and Decoupling, Behavioral Equivalence, Specification Structure, Find Revisited, Specification for a Mutating Method, Declarative Specification, Specification Ordering, Judging Specifications, Conclusion.
-

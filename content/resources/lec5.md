@@ -7,6 +7,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/5bb92f87c17d1c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the following topics Program verification techniques and input space partitioning, Heuristics for test case selection, Black-box testing, Clear-box testing, Test strategy and automation, Static verification.
-

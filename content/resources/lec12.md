@@ -6,6 +6,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/4825f1e02c1099
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the following topics The Object Contract, Equality and Inheritance, Equality and Inheritance.
-

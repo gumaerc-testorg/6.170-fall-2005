@@ -5,6 +5,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/557ad86ab35297
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: RatPolyTest.java
 uid: 557ad86a-b352-97a8-531c-8b446578274e
 ---
 This resource is a supplementry file for problem set 1.
-

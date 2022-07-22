@@ -5,6 +5,7 @@ file: /courses/6-170-laboratory-in-software-engineering-fall-2005/b46595fbf77576
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PublicTest.java
 uid: b46595fb-f775-7608-0cee-86c7e7cfde08
 ---
 This resource is a supplementry file for problem set 1.
-

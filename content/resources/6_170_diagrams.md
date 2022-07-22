@@ -4,6 +4,7 @@ description: This resource contains 6.170 diagrams.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/54c1bb79e340f18cd917744577fe7ec4_6_170_diagrams.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 6.170 diagrams.
-
