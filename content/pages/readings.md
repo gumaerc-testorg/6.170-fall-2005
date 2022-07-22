@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section contains recommended textbooks, including Java and software
+  engineering references.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 014b6f8e-1511-32a7-0567-c67f559bb154
+video_metadata:
+  youtube_id: null
 ---
 
 Recommended Textbooks
