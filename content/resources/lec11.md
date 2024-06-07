@@ -5,6 +5,7 @@ description: This resource contains the following topics Introduction, Defensive
   Exceptions for Special Results, Abuse of Exceptions, Checked and Unchecked Exceptions,
   Exceptions and Preconditions, Design Considerations, Throwable Hierarchy, Summary.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/3f8fe7460da0aed76eab1bc6e00cea28_lec11.pdf
+file_size: 179153
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

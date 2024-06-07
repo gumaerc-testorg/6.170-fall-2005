@@ -4,6 +4,7 @@ description: This resource contains the following topics Accessibility, Dangers 
   Inheritance, Composition and Forwarding, Inheritance versus Composition/Forwarding,
   Interfaces versus Abstract Classes, Skeletal Implementations.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/159431b2f6bcd6d889a42522af79c699_lec15.pdf
+file_size: 84084
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

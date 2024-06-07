@@ -5,6 +5,7 @@ description: This resource contains the following topics Introduction, Contracts
   Revisited, Specification for a Mutating Method, Declarative Specification, Specification
   Ordering, Judging Specifications, Conclusion.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/d9f646cee3f897a7ffa790b69c4281d7_lec4.pdf
+file_size: 137464
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
