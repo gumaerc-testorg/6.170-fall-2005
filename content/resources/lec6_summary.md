@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the summary of object model notations.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/ac12ced400c93ebf39bde3afbc5cecdd_lec6_summary.pdf
+file_size: 85854
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the following topics Declarative specs, Strong
   Versus Weak Specifications, Fib example.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/ef5210dc8e710ca1bf0bb01706759c84_rec1_spec_test.pdf
+file_size: 175990
 file_type: application/pdf
 learning_resource_types:
 - Recitations

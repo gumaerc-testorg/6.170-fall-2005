@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information about abstrct types.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/34070fecd23ed98bf8416059fa69e614_lec7.pdf
+file_size: 137965
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

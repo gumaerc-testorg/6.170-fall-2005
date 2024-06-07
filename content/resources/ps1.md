@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information about the Problem set.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/99395bd1aafd76e78764f18215760f9e_ps1.pdf
+file_size: 733891
 file_type: application/pdf
 learning_resource_types:
 - Assignments

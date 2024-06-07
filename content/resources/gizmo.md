@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/610fc70149971cd37a847e5af5507d45_gizmo.jar
+file_size: 89175
 file_type: application/zip
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/b675813721affba15ebf61a89473fd35_6_170_amend_rss.pdf
+file_size: 171646
 file_type: application/pdf
 learning_resource_types:
 - Projects

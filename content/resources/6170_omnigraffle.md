@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for OmniGraffle templates and stencils.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/6e5d2a8a025bd063f72063ed2b383e34_6170_omnigraffle.txt
+file_size: 32526
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
