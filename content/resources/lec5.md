@@ -4,6 +4,7 @@ description: This resource contains the following topics Program verification te
   and input space partitioning, Heuristics for test case selection, Black-box testing,
   Clear-box testing, Test strategy and automation, Static verification.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/5bb92f87c17d1cb32a055db3af9cb4cc_lec5.pdf
+file_size: 114107
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

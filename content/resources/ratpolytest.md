@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supplementry file for problem set 1.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/557ad86ab35297a8531c8b446578274e_RatPolyTest.java
+file_size: 19792
 file_type: text/plain
 learning_resource_types:
 - Assignments

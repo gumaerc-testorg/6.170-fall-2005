@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the hintson Problem set.
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/4a3adfbdc678e2ac85ab26a9df343b03_6_170_success.pdf
+file_size: 112556
 file_type: application/pdf
 learning_resource_types:
 - Assignments

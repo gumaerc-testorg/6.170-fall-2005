@@ -4,6 +4,7 @@ description: 'This resource contains the following topics Context, A Tale of Two
   Rep and Abstract, Rep Invariants and Abstraction Functions, Rep Invariants for Modular
   Reasoning, Rep Exposure, Summary.'
 file: /courses/6-170-laboratory-in-software-engineering-fall-2005/1a1f80fa85176ed3cae09ccd74f902d3_lec8.pdf
+file_size: 102592
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
