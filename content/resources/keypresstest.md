@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplementry file for Gizmoball.
-file: /courses/6-170-laboratory-in-software-engineering-fall-2005/d1fe07332c9a32dfc0a964b88de4f996_KeypressTest.java
+file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/d1fe07332c9a32dfc0a964b88de4f996_KeypressTest.java
 file_size: 726
 file_type: text/plain
 learning_resource_types:

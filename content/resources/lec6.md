@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the following topics Object Diagrams, Object Model
   Basics, Multiplicity, Mutability, Subclassing in the Object Model, Conclusion.
-file: /courses/6-170-laboratory-in-software-engineering-fall-2005/8dd4d8cdd023afe2d911dec6b20ca6d1_lec6.pdf
+file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/8dd4d8cdd023afe2d911dec6b20ca6d1_lec6.pdf
 file_size: 82167
 file_type: application/pdf
 learning_resource_types:
