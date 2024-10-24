@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the following Design patterns, Creational patterns,
   Behavioral patterns, Structural patterns.
-file: /courses/6-170-laboratory-in-software-engineering-fall-2005/fa369ca6db4b5e3d7833fbf362c59962_lec18.pdf
+file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/fa369ca6db4b5e3d7833fbf362c59962_lec18.pdf
 file_size: 122821
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplementry file for Gizmoball.
-file: /courses/6-170-laboratory-in-software-engineering-fall-2005/fe39f992e6a8b3974aff359da83687c0_Example.java
+file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/fe39f992e6a8b3974aff359da83687c0_Example.java
 file_size: 15800
 file_type: text/plain
 learning_resource_types:
