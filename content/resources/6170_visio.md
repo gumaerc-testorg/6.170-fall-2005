@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for Visio templates and stencils.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/66b6f681d95c0676ff223ebb393f79d0_6170_visio.zip
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/66b6f681d95c0676ff223ebb393f79d0_6170_visio.zip
 file_size: 93843
 file_type: application/zip
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the Emacs and Command Line
   Reference.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/ddfb1e62a115603003d96dd3f7f12a3e_6170_emacs_ref.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/ddfb1e62a115603003d96dd3f7f12a3e_6170_emacs_ref.pdf
 file_size: 247793
 file_type: application/pdf
 learning_resource_types:

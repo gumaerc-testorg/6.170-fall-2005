@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplementry file for Gizmoball.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/08698985c7443193d737ec66063261c1_MagicKeyListener.java
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/08698985c7443193d737ec66063261c1_MagicKeyListener.java
 file_size: 7027
 file_type: text/plain
 learning_resource_types:

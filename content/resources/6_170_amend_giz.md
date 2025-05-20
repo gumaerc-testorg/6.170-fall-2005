@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/0e6bb20fd813bedc96661b7a216bd8eb_6_170_amend_giz.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/0e6bb20fd813bedc96661b7a216bd8eb_6_170_amend_giz.pdf
 file_size: 222536
 file_type: application/pdf
 learning_resource_types:

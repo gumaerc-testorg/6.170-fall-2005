@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplementry file for problem set 1.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/a611068dcc2aae8d26de7297ce942eb2_RatPolyStackTest.java
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/a611068dcc2aae8d26de7297ce942eb2_RatPolyStackTest.java
 file_size: 9036
 file_type: text/plain
 learning_resource_types:

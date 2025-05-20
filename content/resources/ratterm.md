@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplementry file for problem set 1.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/f64f3bc23b458bcf5c8f8bca43fc0057_RatTerm.java
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/f64f3bc23b458bcf5c8f8bca43fc0057_RatTerm.java
 file_size: 1995
 file_type: text/plain
 learning_resource_types:
