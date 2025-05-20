@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the following topics Subtypes, Bicycles, Substitution
   principle, Java subtypes.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/9ed2c853eea2311adeadfcc0de284114_lec14.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/9ed2c853eea2311adeadfcc0de284114_lec14.pdf
 file_size: 114942
 file_type: application/pdf
 learning_resource_types:

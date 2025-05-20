@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the following topics: Course overview, Course
   organization and policy, Development failures, Accidents.'
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/d389a28f99096c454f30cd42ad2f171c_lec1.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/d389a28f99096c454f30cd42ad2f171c_lec1.pdf
 file_size: 263278
 file_type: application/pdf
 learning_resource_types:

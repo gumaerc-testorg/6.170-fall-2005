@@ -6,7 +6,7 @@ description: This resource contains the following topics "Realistic" Space Eleva
   with Overloading, Visitor Usage, Viewer Functionality, Java 3D API, Java 3D Scene
   Graph, Scene Graph Example, Project "Report", Nine Stages of My Design Project,
   Demonstration.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/d4a6900d660f9280abfb6505795d58f6_lec20.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/d4a6900d660f9280abfb6505795d58f6_lec20.pdf
 file_size: 72731
 file_type: application/pdf
 learning_resource_types:

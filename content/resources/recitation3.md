@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation 3 notes.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/52021372a50367053eed547f587b683e_recitation3.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/52021372a50367053eed547f587b683e_recitation3.pdf
 file_size: 182720
 file_type: application/pdf
 learning_resource_types:

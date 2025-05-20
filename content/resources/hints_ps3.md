@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the hints.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/cf4d28da2ba13ccebe887c075c98c1c9_hints_ps3.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/cf4d28da2ba13ccebe887c075c98c1c9_hints_ps3.pdf
 file_size: 18384
 file_type: application/pdf
 learning_resource_types:

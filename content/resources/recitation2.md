@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the information about the following topics ADT
   (Abstract Data Types), Representation Independence and Representation Exposure,
   Java Interfaces and Java Abstract Classes.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/82245f5be1d22af331b2cd85856c49e5_recitation2.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/82245f5be1d22af331b2cd85856c49e5_recitation2.pdf
 file_size: 210632
 file_type: application/pdf
 learning_resource_types:

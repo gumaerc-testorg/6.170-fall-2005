@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the problem set for Design an Abstract Data Type.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/622329e7756955af70101639ecadeaab_ps4.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/622329e7756955af70101639ecadeaab_ps4.pdf
 file_size: 285142
 file_type: application/pdf
 learning_resource_types:
