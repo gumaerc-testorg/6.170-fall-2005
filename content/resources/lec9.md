@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the following topics Introduction, Abstract and
   Concrete Objects, A Nifty Abstraction Function, Specification Fields, Benevolent
   Side Effects, Summary.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/5bc4f8c4aed052f8b68c99b5541a7ae9_lec9.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/5bc4f8c4aed052f8b68c99b5541a7ae9_lec9.pdf
 file_size: 133346
 file_type: application/pdf
 learning_resource_types:

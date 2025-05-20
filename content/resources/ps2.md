@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the problem on Basic List Test.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/ec56f1d314adfffc6da374a51d4ce66c_ps2.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/ec56f1d314adfffc6da374a51d4ce66c_ps2.pdf
 file_size: 184129
 file_type: application/pdf
 learning_resource_types:

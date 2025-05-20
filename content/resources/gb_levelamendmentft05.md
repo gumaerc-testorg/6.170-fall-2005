@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/29041b9f2e41f4807b98bc9c6331707d_gb_levelamendmentFT05.xml
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/29041b9f2e41f4807b98bc9c6331707d_gb_levelamendmentFT05.xml
 file_size: 5357
 file_type: text/xml
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 6.170 diagrams.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/54c1bb79e340f18cd917744577fe7ec4_6_170_diagrams.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/54c1bb79e340f18cd917744577fe7ec4_6_170_diagrams.pdf
 file_size: 106642
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplementry file for problem set 1.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/b46595fbf77576080cee86c7e7cfde08_PublicTest.java
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/b46595fbf77576080cee86c7e7cfde08_PublicTest.java
 file_size: 598
 file_type: text/plain
 learning_resource_types:

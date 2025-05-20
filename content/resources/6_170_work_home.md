@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to working at home.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/b2019eb8d55c97fca817fd3a10f5d34b_6_170_work_home.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/b2019eb8d55c97fca817fd3a10f5d34b_6_170_work_home.pdf
 file_size: 246332
 file_type: application/pdf
 learning_resource_types: []

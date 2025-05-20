@@ -4,7 +4,7 @@ description: This resource contains the following topicsIntroduction, Defining S
   Generics, Generics and Subtyping, Wildcards, Generic Methods, Interoperating with
   Legacy Code, The Fine Print, Class Literals as Run-time Type Tokens, More Fun with
   Wildcards, Converting Legacy Code to Use Generics, Acknowledgements.
-file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/d8ec291d7649762c314ac4c1ee5619d9_lec13.pdf
+file: /courses/6-170-laboratory-in-software-engineering-fall-2005/d8ec291d7649762c314ac4c1ee5619d9_lec13.pdf
 file_size: 155127
 file_type: application/pdf
 learning_resource_types:
