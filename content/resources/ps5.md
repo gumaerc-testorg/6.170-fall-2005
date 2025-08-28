@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the problem set for Stata Center Navigation and
   Analysis.
-file: /courses/6-170-laboratory-in-software-engineering-fall-2005/8a8446068df6747d288ecea3c055cf1f_ps5.pdf
+file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/8a8446068df6747d288ecea3c055cf1f_ps5.pdf
 file_size: 262693
 file_type: application/pdf
 learning_resource_types:

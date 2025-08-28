@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the problem set for Compilation, Bytecode, and
   Virtual Machines.
-file: /courses/6-170-laboratory-in-software-engineering-fall-2005/9109e0088e49869914da3610d2f8e661_ps3.pdf
+file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/9109e0088e49869914da3610d2f8e661_ps3.pdf
 file_size: 285237
 file_type: application/pdf
 learning_resource_types:
