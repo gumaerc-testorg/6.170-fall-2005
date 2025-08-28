@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation 5 notes.
-file: /courses/6-170-laboratory-in-software-engineering-fall-2005/14395210945848bd1abf2d0331ec2a37_recitation5.pdf
+file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/14395210945848bd1abf2d0331ec2a37_recitation5.pdf
 file_size: 171347
 file_type: application/pdf
 learning_resource_types:

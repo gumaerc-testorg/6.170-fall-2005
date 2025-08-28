@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the following topics Spiral Model, Outline, Paper
   Prototypes, User Testing, Watch for Critical Incidents, Summary.
-file: /courses/6-170-laboratory-in-software-engineering-fall-2005/89cee5e01829368cca34dba246223b08_lec17.pdf
+file: /ol-ocw-studio-app/courses/6-170-laboratory-in-software-engineering-fall-2005/89cee5e01829368cca34dba246223b08_lec17.pdf
 file_size: 184478
 file_type: application/pdf
 learning_resource_types:
