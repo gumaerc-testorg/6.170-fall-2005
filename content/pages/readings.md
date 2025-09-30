@@ -62,12 +62,12 @@ Java References
 Other books on Java include:
 
 Arnold, Ken, James Gosling, and David Holmes. _The Java Programming Language_. 3rd ed. Reading, MA: Addison-Wesley, 2000. ISBN: 0201704331.  
-A brief explanation of Java. Assumes more background; much less explanation about how to use Java's features. User interface libraries are not discussed. Details [online](http://java.sun.com/docs/books/javaprog/).
+A brief explanation of Java. Assumes more background; much less explanation about how to use Java's features. User interface libraries are not discussed. Details {{% resource_link "fe5a67d9-2ae8-438c-891d-d0a7a8454afa" "online" %}}.
 
 Gosling, James, Bill Joy, and Guy Steele. _The Java Language Specification_. 3rd ed. Reading, MA: Addison-Wesley, 2005. ISBN: 0321246780.  
-The official reference for Java by its inventors. Good for reference, but not an easy way to learn Java. Available as a book, or [online](http://java.sun.com/docs/books/jls/index.html).
+The official reference for Java by its inventors. Good for reference, but not an easy way to learn Java. Available as a book, or {{% resource_link "98e3f863-be9a-4e42-9277-d342347dc4f0" "online" %}}.
 
 Flanagan, David. _Java in a Nutshell_. 4th ed. Cambridge, MA: O'Reilly Publishing, 2002. ISBN: 0596002831.  
-A reference book rather than a tutorial. Succinct but covers a lot. Assumes knowledge of a language like C. Details [online](http://www.oreilly.com/catalog/javanut4/).
+A reference book rather than a tutorial. Succinct but covers a lot. Assumes knowledge of a language like C. Details {{% resource_link "4dc85802-a61b-4b82-9c7a-7ccd118a9efe" "online" %}}.
 
 Eckel, Bruce. _Thinking in Java_. 3rd ed. Upper Saddle River, NJ: Prentice Hall, 2002. ISBN: 0131002872.
