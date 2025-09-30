@@ -25,10 +25,10 @@ OmniGraffle templates and stencils ({{% resource_link "6e5d2a8a-025b-d063-f720-6
 Useful Links
 ------------
 
-[Java 1.5.0 API](http://java.sun.com/j2se/1.5.0/docs/api/)
+{{% resource_link "553d65bb-746e-4367-9821-3ebeaef51b9d" "Java 1.5.0 API" %}}
 
-[Apache Ant 1.6.5](http://ant.apache.org/)
+{{% resource_link "a0b50a67-4561-487a-8900-14952c70a418" "Apache Ant 1.6.5" %}}
 
-[JUnit](http://junit.org/)
+{{% resource_link "4f949732-6cc8-4206-a840-60023b18df40" "JUnit" %}}
 
-[Eclipse](http://www.eclipse.org/)
+{{% resource_link "e19f52f9-ebeb-496c-bd91-3ce862108a09" "Eclipse" %}}
